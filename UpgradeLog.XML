@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IFSTool">
+</Property><Property Name="Solution File" Value="F:\ifstool\IFSTool.sln">
+</Property><Property Name="User Options File" Value="F:\ifstool\IFSTool.suo">
+</Property><Property Name="Date" Value="14 февруари 2016 г.">
+</Property><Property Name="Time" Value="16:59 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IFSTool.sln" Description="File successfully backed up as F:\ifstool\Backup10\IFSTool.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IFSTool.suo" Description="File successfully backed up as F:\ifstool\Backup10\IFSTool.suo">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IFSTool.csproj" Description="Project file successfully backed up as F:\ifstool\Backup10\IFSTool.csproj">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IFSTool.csproj.user" Description="Project user file successfully backed up as F:\ifstool\Backup10\IFSTool.csproj.user">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="ArithmeticExpression\ArithmeticNodes.cs" Description="File successfully backed up as F:\ifstool\Backup10\ArithmeticExpression\ArithmeticNodes.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="ArithmeticExpression\ArithmeticParser.cs" Description="File successfully backed up as F:\ifstool\Backup10\ArithmeticExpression\ArithmeticParser.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="ArithmeticExpression\Bounds.cs" Description="File successfully backed up as F:\ifstool\Backup10\ArithmeticExpression\Bounds.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="ArithmeticExpression\ExpressionUtil.cs" Description="File successfully backed up as F:\ifstool\Backup10\ArithmeticExpression\ExpressionUtil.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="AssemblyInfo.cs" Description="File successfully backed up as F:\ifstool\Backup10\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="AxiomsForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\AxiomsForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="AxiomStatus.cs" Description="File successfully backed up as F:\ifstool\Backup10\AxiomStatus.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="BaseForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\BaseForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="CachedValues.cs" Description="File successfully backed up as F:\ifstool\Backup10\CachedValues.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="DrawGraphForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\DrawGraphForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="EditImplicationForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\EditImplicationForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Expression\Constants.cs" Description="File successfully backed up as F:\ifstool\Backup10\Expression\Constants.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Expression\INode.cs" Description="File successfully backed up as F:\ifstool\Backup10\Expression\INode.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Expression\NodeEnumerator.cs" Description="File successfully backed up as F:\ifstool\Backup10\Expression\NodeEnumerator.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Expression\Parser.cs" Description="File successfully backed up as F:\ifstool\Backup10\Expression\Parser.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Graph.cs" Description="File successfully backed up as F:\ifstool\Backup10\Graph.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IdenticalImplicationsForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\IdenticalImplicationsForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IFMain.cs" Description="File successfully backed up as F:\ifstool\Backup10\IFMain.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\IFBool.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\IFBool.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\IFExpressionUtil.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\IFExpressionUtil.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\Implication.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\Implication.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\IntFuzzyEnumerator.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\IntFuzzyEnumerator.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\IntFuzzyNodes.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\IntFuzzyNodes.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\IntFuzzyParser.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\IntFuzzyParser.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IntFuzzyExpression\Negation.cs" Description="File successfully backed up as F:\ifstool\Backup10\IntFuzzyExpression\Negation.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="MainForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="NegationsForm.cs" Description="File successfully backed up as F:\ifstool\Backup10\NegationsForm.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="Set.cs" Description="File successfully backed up as F:\ifstool\Backup10\Set.cs">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="App.ico" Description="File successfully backed up as F:\ifstool\Backup10\App.ico">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="AxiomsForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\AxiomsForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="BaseForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\BaseForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="DrawGraphForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\DrawGraphForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="EditImplicationForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\EditImplicationForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IdenticalImplicationsForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\IdenticalImplicationsForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="MainForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="NegationsForm.resx" Description="File successfully backed up as F:\ifstool\Backup10\NegationsForm.resx">
+</Event><Event ErrorLevel="1" Project="IFSTool" Source="IFSTool.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IFSTool.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IFSTool" Source="IFSTool.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IFSTool.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IFSTool.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IFSTool" Source="IFSTool.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

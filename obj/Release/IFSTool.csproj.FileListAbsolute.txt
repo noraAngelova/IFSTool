@@ -1,0 +1,12 @@
+F:\ifstool\bin\Release\IFSTool.exe
+F:\ifstool\obj\Release\ResolveAssemblyReference.cache
+F:\ifstool\obj\Release\IFSTool.AxiomsForm.resources
+F:\ifstool\obj\Release\IFSTool.BaseForm.resources
+F:\ifstool\obj\Release\IFSTool.DrawGraphForm.resources
+F:\ifstool\obj\Release\IFSTool.EditImplicationForm.resources
+F:\ifstool\obj\Release\IFSTool.IdenticalImplicationsForm.resources
+F:\ifstool\obj\Release\IFSTool.MainForm.resources
+F:\ifstool\obj\Release\IFSTool.NegationsForm.resources
+F:\ifstool\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\ifstool\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\ifstool\obj\Release\IFSTool.exe

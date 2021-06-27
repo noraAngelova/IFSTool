@@ -1,0 +1,26 @@
+F:\ifstool\bin\Debug\IFSTool.exe
+F:\ifstool\obj\Debug\IFSTool.AxiomsForm.resources
+F:\ifstool\obj\Debug\IFSTool.BaseForm.resources
+F:\ifstool\obj\Debug\IFSTool.DrawGraphForm.resources
+F:\ifstool\obj\Debug\IFSTool.EditImplicationForm.resources
+F:\ifstool\obj\Debug\IFSTool.IdenticalImplicationsForm.resources
+F:\ifstool\obj\Debug\IFSTool.MainForm.resources
+F:\ifstool\obj\Debug\IFSTool.NegationsForm.resources
+F:\ifstool\obj\Debug\IFSTool.csproj.GenerateResource.Cache
+F:\ifstool\obj\Debug\IFSTool.exe
+F:\ifstool\obj\Debug\IFSTool.pdb
+F:\ifstool\bin\Debug\IFSTool.pdb
+F:\ifstool\obj\Debug\IFSTool.csprojResolveAssemblyReference.cache
+F:\проекти (код)\Astea\ifstool\bin\Debug\IFSTool.exe
+F:\проекти (код)\Astea\ifstool\bin\Debug\IFSTool.pdb
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.csprojResolveAssemblyReference.cache
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.AxiomsForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.BaseForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.DrawGraphForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.EditImplicationForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.IdenticalImplicationsForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.MainForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.NegationsForm.resources
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.csproj.GenerateResource.Cache
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.exe
+F:\проекти (код)\Astea\ifstool\obj\Debug\IFSTool.pdb
